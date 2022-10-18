@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dimas4ik111 (in school 21: @osgreywi)
+- 👋 Hi, I’m Dima (in school 21: @osgreywi)
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
