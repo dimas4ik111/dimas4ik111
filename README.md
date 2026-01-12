@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Dima (in school 21: @osgreywi)
+- I'm Go developer
 <!-- - 👀 I’m interested in ... -->
 <!-- - 🌱 I’m currently learning ... -->
 <!-- - 💞️ I’m looking to collaborate on ... -->
